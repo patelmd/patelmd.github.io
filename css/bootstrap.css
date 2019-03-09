@@ -656,7 +656,6 @@ pre code {
   min-height: 1px;
   padding-right: 15px;
   padding-left: 15px;
-  margin:auto;
 }
 
 .col {
@@ -1149,6 +1148,7 @@ pre code {
   .col-lg-5 {
     flex: 0 0 41.66667%;
     max-width: 41.66667%;
+    margin: auto;
   }
   .col-lg-6 {
     flex: 0 0 50%;
